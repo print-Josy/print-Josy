@@ -1,7 +1,7 @@
-- 👋 Hi, I’m printf("Josy");
-- 👀 I’m interested in C / C++ / Python / Rust / Go;
-- 🌱 I’m currently learning C;
-- 💞️ I’m looking to collaborate on small projects to learn C in a more manifold way;
+- 👋 Hi, I’m print("Josy")
+- 👀 I’m interested in C++ / Rust / Swift
+- 🌱 I’m currently learning Swift
+- 💞️ I’m looking to collaborate on small projects to learn to code in a more manifold way
 - 📫 How to reach me // ...
 
 <!---
